@@ -10,13 +10,13 @@ class Solution {
         int longest = 0;
         for(int num : set){
             if(!set.contains(num - 1)){
-                int current = num;
-                int count = 1;
-                while(set.contains(current + 1)){
-                    current++;
-                    count++;
+                int currNum = num;
+                int c = 1;
+                while(set.contains(currNum + 1)){
+                    currNum ++;
+                    c++;
                 }
-                longest = Math.max(longest, count);
+                longest = Math.max(c,longest);
             }
         }
         return longest;
