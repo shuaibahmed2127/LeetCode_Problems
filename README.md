@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
