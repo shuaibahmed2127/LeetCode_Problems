@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0169-majority-element) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
