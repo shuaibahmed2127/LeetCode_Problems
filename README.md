@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
