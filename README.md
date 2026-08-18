@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0577-employee-bonus) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
