@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
