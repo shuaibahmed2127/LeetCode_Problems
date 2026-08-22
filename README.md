@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
