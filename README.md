@@ -24,6 +24,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
@@ -78,6 +79,7 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0933-number-of-recent-calls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0070-climbing-stairs](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -155,6 +158,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0203-remove-linked-list-elements](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions i solved while learning DSA.
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
