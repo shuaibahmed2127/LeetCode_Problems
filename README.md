@@ -40,6 +40,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0020-valid-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0058-length-of-last-word) |
+| [0796-rotate-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
