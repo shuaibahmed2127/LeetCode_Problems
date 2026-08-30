@@ -26,6 +26,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0414-third-maximum-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
@@ -258,6 +259,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | ------- |
 | [0011-container-with-most-water](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Memoization
 |  |
 | ------- |
