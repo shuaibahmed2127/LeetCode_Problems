@@ -1,13 +1,8 @@
 import java.util.*;
 class Solution {
     public int minimumDeletions(int[] nums) {
-        if(nums.length == 1){
-            return 1;
-        }
-        if(nums.length == 2){
-            return 2;
-        }
         int n=nums.length;
+        if(n<=2) return n;
         int minIndex=0,maxIndex=0;
         for(int i=0;i<n;i++){
             if(nums[i] < nums[minIndex]){
