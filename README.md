@@ -15,6 +15,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0189-rotate-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions i solved while learning DSA.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Tree
