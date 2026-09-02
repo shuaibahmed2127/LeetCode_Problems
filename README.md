@@ -46,6 +46,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
+| [0344-reverse-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0796-rotate-string) |
 ## Stack
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0189-rotate-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
