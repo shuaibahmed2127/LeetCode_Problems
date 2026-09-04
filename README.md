@@ -35,10 +35,12 @@ A collection of LeetCode questions i solved while learning DSA.
 | [3718-smallest-missing-multiple-of-k](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
