@@ -52,6 +52,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0020-valid-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0796-rotate-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Simulation
