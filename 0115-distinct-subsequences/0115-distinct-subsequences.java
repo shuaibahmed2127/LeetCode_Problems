@@ -4,9 +4,9 @@ class Solution {
         int[] dp = new int[n+1];
         dp[0] = 1;
         for(char c : s.toCharArray()){
-            for(int j=n; j>=1; j--){
-                if(c == t.charAt(j-1)){
-                    dp[j] = dp[j] + dp[j-1];
+            for(int j = n; j>=1; j--){
+                if(c==t.charAt(j-1)){
+                    dp[j]+=dp[j-1];
                 }
             }
         }
