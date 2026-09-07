@@ -28,6 +28,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [1480-running-sum-of-1d-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3904-smallest-stable-index-ii) |
 ## String
