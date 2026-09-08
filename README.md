@@ -117,6 +117,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
