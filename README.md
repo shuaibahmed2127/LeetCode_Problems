@@ -5,6 +5,7 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions i solved while learning DSA.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions i solved while learning DSA.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
