@@ -34,6 +34,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0349-intersection-of-two-arrays](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0414-third-maximum-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Divide and Conquer
 |  |
 | ------- |
