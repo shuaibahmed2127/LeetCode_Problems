@@ -118,6 +118,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0168-excel-sheet-column-title](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -308,4 +309,8 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
