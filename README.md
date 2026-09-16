@@ -7,6 +7,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0001-two-sum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0027-remove-element) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0003-longest-substring-without-repeating-characters](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0058-length-of-last-word) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
