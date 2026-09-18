@@ -13,6 +13,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0027-remove-element](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | ------- |
 | [0012-integer-to-roman](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
@@ -321,4 +323,8 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
