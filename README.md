@@ -67,6 +67,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0344-reverse-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [2109-adding-spaces-to-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
