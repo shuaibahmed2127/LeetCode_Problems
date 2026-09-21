@@ -2,20 +2,17 @@ class Solution {
     public int[] sortedSquares(int[] nums) {
         int n = nums.length;
         int[] res = new int[n];
-        int l=0;
-        int r=n-1;
-        int ind=n-1;
+        int l = 0;
+        int r = n-1;
+        int index = n-1;
         while(l<=r){
-            int ls = nums[l]*nums[l];
-            int rs = nums[r]*nums[r];
-            if(ls>rs){
-                res[ind] = ls;
+            if((nums[l]*nums[l]) > (nums[r]*nums[r])){
+                res[index--] = (nums[l]*nums[l]);
                 l++;
             }else{
-                res[ind] = rs;
+                res[index--] = (nums[r]*nums[r]);
                 r--;
             }
-            ind--;
         }
         return res;
     }
