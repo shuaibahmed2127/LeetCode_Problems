@@ -36,6 +36,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0485-max-consecutive-ones](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Divide and Conquer
@@ -353,4 +355,12 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0048-rotate-image) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
