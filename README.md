@@ -35,6 +35,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0414-third-maximum-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0941-valid-mountain-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1089-duplicate-zeros) |
