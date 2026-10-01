@@ -40,6 +40,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [1051-height-checker](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
