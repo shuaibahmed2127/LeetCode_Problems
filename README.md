@@ -135,6 +135,7 @@ A collection of LeetCode questions i solved while learning DSA.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0048-rotate-image) |
