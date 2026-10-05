@@ -77,6 +77,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0168-excel-sheet-column-title](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2109-adding-spaces-to-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -90,12 +91,14 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0145-binary-tree-postorder-traversal](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
