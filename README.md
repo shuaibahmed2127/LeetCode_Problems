@@ -35,6 +35,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0414-third-maximum-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0905-sort-array-by-parity](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1051-height-checker) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0349-intersection-of-two-arrays](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0349-intersection-of-two-arrays](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
