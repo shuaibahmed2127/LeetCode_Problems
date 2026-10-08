@@ -80,6 +80,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0796-rotate-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2109-adding-spaces-to-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -103,6 +105,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0020-valid-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
