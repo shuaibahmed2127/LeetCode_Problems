@@ -51,6 +51,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2109-adding-spaces-to-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
