@@ -53,6 +53,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [2460-apply-operations-to-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions i solved while learning DSA.
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
