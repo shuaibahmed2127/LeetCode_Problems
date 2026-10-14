@@ -166,6 +166,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Memoization
 |  |
