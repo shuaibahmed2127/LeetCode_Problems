@@ -164,6 +164,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0836-rectangle-overlap](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1952-three-divisors](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions i solved while learning DSA.
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
@@ -401,4 +403,16 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1051-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
