@@ -72,6 +72,7 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions i solved while learning DSA.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions i solved while learning DSA.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
@@ -415,4 +418,8 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1952-three-divisors) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
