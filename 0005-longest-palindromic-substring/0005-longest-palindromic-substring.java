@@ -1,16 +1,16 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int start = 0, maxLen = 1;
-        for(int i=0; i<s.length(); i++){
-            int len1 = expand(s,i,i);
-            int len2 = expand(s,i,i+1);
-            int len = Math.max(len1,len2);
+        int start = 0,maxLen = 1;
+        for(int i=0;i<s.length();i++){
+            int l1 = expand(s,i,i);
+            int l2 = expand(s,i,i+1);
+            int len = Math.max(l1,l2);
             if(len > maxLen){
-                maxLen = len;
-                start = i - (len - 1) / 2;
-            }
+            maxLen = len;
+            start = i - (len - 1) / 2;
         }
-        return s.substring(start,start+maxLen);
+        }
+        return s.substring(start, start + maxLen);
     }
     private int expand(String s,int l,int r){
         while(l>=0 && r<s.length() && s.charAt(l)==s.charAt(r)){
