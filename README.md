@@ -48,6 +48,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [1480-running-sum-of-1d-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0977-squares-of-a-sorted-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
@@ -281,6 +283,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0349-intersection-of-two-arrays](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
