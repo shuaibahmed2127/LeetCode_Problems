@@ -36,6 +36,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0414-third-maximum-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0896-monotonic-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0941-valid-mountain-array) |
