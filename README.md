@@ -168,6 +168,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1952-three-divisors) |
+| [2235-add-two-integers](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
