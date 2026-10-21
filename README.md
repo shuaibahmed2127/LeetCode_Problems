@@ -94,6 +94,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [2109-adding-spaces-to-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
