@@ -93,6 +93,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2109-adding-spaces-to-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2109-adding-spaces-to-a-string) |
+| [2409-count-days-spent-together](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2409-count-days-spent-together) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
