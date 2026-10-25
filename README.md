@@ -36,6 +36,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0414-third-maximum-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions i solved while learning DSA.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3904-smallest-stable-index-ii) |
