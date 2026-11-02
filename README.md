@@ -35,6 +35,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0349-intersection-of-two-arrays](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0724-find-pivot-index) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [0168-excel-sheet-column-title](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
