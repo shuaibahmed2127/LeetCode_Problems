@@ -181,6 +181,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [2235-add-two-integers](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions i solved while learning DSA.
 | [1346-check-if-n-and-its-double-exist](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [3536-maximum-product-of-two-digits](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shuaibahmed2127/LeetCode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
